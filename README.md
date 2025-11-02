@@ -59,8 +59,6 @@ printf "%s\n" "$all_branches" | while IFS= read -r branch; do
 done
 ```
 
-[Donate](https://ko-fi.com/zacanger)
-
 Better `git branch -a`
 
 ![screenshot](/screenshot.png?raw=true)

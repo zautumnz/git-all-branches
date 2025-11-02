@@ -3,9 +3,7 @@
   "description": "Better git branch -a",
   "version": "1.1.15",
   "author": {
-    "email": "zac@zacanger.com",
-    "name": "Zac Anger",
-    "url": "https://zacanger.com"
+    "name": "zautumnz"
   },
   "license": "MIT",
   "main": "index.js",
@@ -18,12 +16,12 @@
     "preversion": "sortpack && npm t",
     "test": "standard"
   },
-  "homepage": "https://github.com/zacanger/git-all-branches#readme",
+  "homepage": "https://github.com/zautumnz/git-all-branches#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zacanger/git-all-branches.git"
+    "url": "https://github.com/zautumnz/git-all-branches.git"
   },
-  "bugs": "https://github.com/zacanger/git-all-branches/issues",
+  "bugs": "https://github.com/zautumnz/git-all-branches/issues",
   "keywords": [
     "cli",
     "git",
